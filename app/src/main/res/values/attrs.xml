@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MeteorView">
+
+        <!--流星头部的尺寸-->
+        <attr name="meteor_head_size" format="integer|reference" />
+
+        <!--流星数量-->
+        <attr name="meteor_num" format="integer|reference" />
+
+        <!--流星颜色-->
+        <attr name="meteor_color" format="color" />
+    </declare-styleable>
+</resources>
